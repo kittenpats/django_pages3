@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-rcafs&kr%6_92))y7@$w$u4tvq=@9%gvh4f*mw7p&9=uxan_i6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
